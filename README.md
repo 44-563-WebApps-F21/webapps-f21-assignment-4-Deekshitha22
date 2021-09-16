@@ -7,7 +7,7 @@ A practice assignment for HTML with CSS
 </head>
 <body>
 
-<h1>Produced by deekshitha bichinaepally</h1>
+<h2>Produced by deekshitha bichinaepally</h2>
 <p>My first paragraph.</p>
 
 </body>
