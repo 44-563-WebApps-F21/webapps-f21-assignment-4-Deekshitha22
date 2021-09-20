@@ -1,0 +1,102 @@
+
+.prince {
+    color: black;
+    color: rgb(38, 106, 138);
+    font-family: initial;
+    font-size: 100%;
+}
+
+.baron {
+    color: black;
+    color: rgb(38, 138, 76);
+    font-family: initial;
+    font-size: 100%;
+}
+
+.count{
+    color: black;
+    color: rgb(38, 81, 138);
+    font-family: initial;
+    font-size: 100%;
+}
+
+
+.prince:hover {
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+    display: inline;
+}
+
+
+.count:hover {
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+    display: inline;
+}
+
+.baron:hover {
+    text-shadow: rgb(38, 138, 76) 1px 0 11px;
+    border: 1px solid;
+    display: inline;
+}
+
+h2 {
+    font-family: Apple Chancery, cursive;
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.direction {
+    color: black;
+    color: rgb(243, 26, 26);
+    font-size: 120%;
+}
+
+.desc {
+    background-color: rgb(205, 223, 226);
+    font-family: cursive;
+    font-size: 90%;
+}
+
+.desc:hover {
+    background-color: #609AB8;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 5px;
+    text-align: left;
+}
+
+th {
+    color: purple;
+}
+
+tr:nth-child(even) {
+    background-color: #e2e2e2;
+}
+
+.links {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: yellowgreen;
+}
+
+.icon {
+    display: block;
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
